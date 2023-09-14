@@ -46,11 +46,11 @@ lang: it
 {: .no_toc }
 {: .d-inline-block }
 
-<div id="legenda-labels-label-3"></div>
+<div id="grn-deploy-webstatic-label-1"></div>
 {: .d-inline-block }
 
 <script type="module">
-  selfsustainable_fill_labels_state("legenda-labels-label-3");
+  selfsustainable_fill_labels_state("grn-deploy-webstatic-label-1");
 </script>
 
 <div id="fondamentihci-label-1"></div>
