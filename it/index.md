@@ -46,17 +46,17 @@ lang: it
 {: .no_toc }
 {: .d-inline-block }
 
-<div id="projects-label-1"></div>
+<div id="legenda-labels-label-3"></div>
 {: .d-inline-block }
 
 <script type="module">
-  selfsustainable_fill_labels_state("projects-label-1");
+  selfsustainable_fill_labels_state("legenda-labels-label-3");
 </script>
 
-<div id="projects-label-2"></div>
+<div id="fondamentihci-label-1"></div>
 
 <script type="module">
-  selfsustainable_fill_labels_state("projects-label-2");
+  selfsustainable_fill_labels_state("fondamentihci-label-1");
 </script>
 
 ---
