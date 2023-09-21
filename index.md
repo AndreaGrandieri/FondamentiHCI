@@ -5,7 +5,7 @@
 layout: default
 
 # Page title. If omitted, the page will not be included in the navbar.
-title: FondamentiHCI
+title: BitEvent
 
 #################################################################
 

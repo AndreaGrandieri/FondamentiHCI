@@ -5,7 +5,7 @@
 layout: default
 
 # Page title. If omitted, the page will not be included in the navbar.
-title: FondamentiHCI
+title: BitEvent
 
 #################################################################
 
@@ -42,7 +42,7 @@ lang: it
 # Notice: codeblocks highlighting supported languages listed here: https://www.fabriziomusacchio.com/blog/2021-08-11-Syntax_Highlighting_in_Jekyll/
 ---
 
-# FondamentiHCI
+# BitEvent
 {: .no_toc }
 {: .d-inline-block }
 
