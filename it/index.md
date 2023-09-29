@@ -93,9 +93,9 @@ lang: it
 
 ## Perchè esistiamo
 
-| Property   |
+|    |
 | ---------- |
-| __Problema:__ decentralizzata pubblicità e ricerca di eventi universitari. | `Integer` | Any value `>= 45` (ms)                                                                       |
+| __Problema:__ decentralizzata pubblicità e ricerca di eventi universitari. |
 | __Soluzione proposta:__ aggregare gli eventi (centralizzarli) in un’unica piattaforma, dalla quale, inoltre, fruire tutte le principali informazioni ed interazioni relative all’evento stesso.  |
 | __Obiettivi:__ facilitare la condivisione e ricerca di eventi organizzati direttamente dal Politecnico di Milano o da studenti / associazioni studentesche, riducendo confusione e aumento la partecipazione a questi ultimi. Come obiettivo secondario, favorire la formazione di nuovi legami tra i partecipanti.    |
 
