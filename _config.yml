@@ -24,7 +24,7 @@ title: BitEvent
 
 aux_links: [
   link1: ["<i class=\"fa-brands fa-github fa-3x\"></i>", "https://github.com/AndreaGrandieri/BitEvent", true],
-  # # link2: ["<i class=\"fa-solid fa-house fa-3x\"></i>", "https://andreagrandieri.github.io/", false],
+  link2: ["<i class=\"fa-solid fa-house fa-3x\"></i>", "https://andreagrandieri.github.io/", false],
   link3: ["<div id=\"lightdarkSwitcherButton\"><i class=\"fa-solid fa-moon fa-3x\"></i></div>", "javascript:themeModeSwitcher();", false]
 ]
 
