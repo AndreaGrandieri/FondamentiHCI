@@ -76,16 +76,25 @@ lang: it
 {: .motto-title }
 > <p class="blockquote-title-fixer-purple">tl;dr</p>
 >
-> MOTTO (???)
+> Group 'em all
 
 ---
 
 ## Autori
 
-_Pass._
+- Andrea Grandieri [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)
+- Matteo Cavalleri [https://github.com/teocavaa](https://github.com/teocavaa)
+- Ilaria Brunelli [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)
+- Giorgio Alotto [https://github.com/GioAlo](https://github.com/GioAlo)
+- Andrea Bellocci [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)
+- Daniel Carrozzo [https://github.com/DARKRAYTA](https://github.com/DARKRAYTA)
 
 ---
 
-Pagina web del progetto. Nessun contenuto ancora presente.
+## Perchè esistiamo
 
-_Pass._
+- __Problema:__ decentralizzata pubblicità e ricerca di eventi universitari.
+- __Soluzione proposta:__ aggregare gli eventi (centralizzarli) in un’unica piattaforma, dalla quale, inoltre, fruire tutte le principali informazioni ed interazioni relative all’evento stesso.
+- __Obiettivi:__ facilitare la condivisione e ricerca di eventi organizzati direttamente dal Politecnico di Milano o da studenti / associazioni studentesche, riducendo confusione e aumento la partecipazione a questi ultimi. Come obiettivo secondario, favorire la formazione di nuovi legami tra i partecipanti.
+
+---
