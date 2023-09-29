@@ -93,7 +93,6 @@ lang: it
 
 ## Perchè esistiamo
 
-|    |
 | ---------- |
 | __Problema:__ decentralizzata pubblicità e ricerca di eventi universitari. |
 | __Soluzione proposta:__ aggregare gli eventi (centralizzarli) in un’unica piattaforma, dalla quale, inoltre, fruire tutte le principali informazioni ed interazioni relative all’evento stesso.  |
