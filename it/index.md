@@ -82,12 +82,13 @@ lang: it
 
 ## Autori
 
-- Andrea Grandieri [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)
-- Matteo Cavalleri [https://github.com/teocavaa](https://github.com/teocavaa)
-- Ilaria Brunelli [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)
-- Giorgio Alotto [https://github.com/GioAlo](https://github.com/GioAlo)
-- Andrea Bellocci [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)
-- Daniel Carrozzo [https://github.com/DARKRAYTA](https://github.com/DARKRAYTA)
+| --- | --- |
+| Andrea Grandieri    | [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)    |
+| Matteo Cavalleri    | [https://github.com/teocavaa](https://github.com/teocavaa)    |
+| Ilaria Brunelli    | [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)    |
+| Giorgio Alotto    | [https://github.com/GioAlo](https://github.com/GioAlo)    |
+| Andrea Bellocci    | [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)    |
+| Daniel Carrozzo    | [https://github.com/DARKRAYTA](https://github.com/DARKRAYTA)    |
 
 ---
 
