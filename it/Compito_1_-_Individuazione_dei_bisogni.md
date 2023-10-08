@@ -39,7 +39,7 @@ lang: it
 
 # Bare: redirect page
 redirect_to:
-    - /it/#compito-1--individuazione-dei-bisogni
+    - /it/#compito-1---individuazione-dei-bisogni
 ---
 
 <!-- Bare Page -->
