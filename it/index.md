@@ -74,21 +74,9 @@ lang: it
 ---
 
 {: .motto-title }
-> <p class="blockquote-title-fixer-purple">tl;dr</p>
+> <p class="blockquote-title-fixer-purple">MOTTO</p>
 >
 > Group 'em all
-
----
-
-## Autori
-
-| --- | --- |
-| Andrea Grandieri    | [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)    |
-| Matteo Cavalleri    | [https://github.com/teocavaa](https://github.com/teocavaa)    |
-| Ilaria Brunelli    | [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)    |
-| Giorgio Alotto    | [https://github.com/GioAlo](https://github.com/GioAlo)    |
-| Andrea Bellocci    | [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)    |
-| Daniel Carrozzo    | [https://github.com/DARKRAYTA](https://github.com/DARKRAYTA)    |
 
 ---
 
@@ -100,3 +88,29 @@ lang: it
 | __Obiettivi:__ facilitare la condivisione e ricerca di eventi organizzati direttamente dal Politecnico di Milano o da studenti / associazioni studentesche, riducendo confusione e aumento la partecipazione a questi ultimi. Come obiettivo secondario, favorire la formazione di nuovi legami tra i partecipanti.    |
 
 ---
+
+## Autori
+
+| --- | --- | --- |
+| Andrea Grandieri  | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)    |
+| Matteo Cavalleri   | Triennale in Ingegneria dell'Automazione - Politecnico di Milano | [https://github.com/teocavaa](https://github.com/teocavaa)    |
+| Ilaria Brunelli   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)    |
+| Giorgio Alotto   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/GioAlo](https://github.com/GioAlo)    |
+| Andrea Bellocci   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)    |
+| Daniel Carrozzo   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/DARKRAYTA](https://github.com/DARKRAYTA)    |
+
+---
+
+## Form
+
+__Il nostro sondaggio di needfinding accetta ancora risposte!__ Stiamo raccogliendo dati statistici e anonimi relativi al tema degli eventi universitari, con l'obiettivo di creare la nostra piattaforma di aggregazione sempre meglio orientata verso le vostre più sentite esigenze. __La tua partecipazione sarebbe molto gradita!__
+
+Link al form: [https://forms.office.com/e/vka0rwAuhV](https://forms.office.com/e/vka0rwAuhV)
+
+QR Code: [![FormQRCode.png](/BitEvent/assets/FormQRCode.png)](/BitEvent/assets/FormQRCode.png)
+
+---
+
+## COMPITO 1 – INDIVIDUAZIONE DEI BISOGNI
+
+_Consegna prevista entro le 23:59 del 9.Oct.2023_
