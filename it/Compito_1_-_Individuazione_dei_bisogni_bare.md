@@ -10,7 +10,7 @@ title: Compito 1 - Individuazione dei bisogni
 #################################################################
 
 # Specifies the order of the current page from the point of view of the navbar. Can have repetition in the numbers, for parent-child hierarchies.
-nav_order: 1
+nav_order: 4
 
 # Let exclude the page from the navbar
 nav_exclude: false
