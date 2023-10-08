@@ -5,12 +5,12 @@
 layout: default
 
 # Page title. If omitted, the page will not be included in the navbar.
-title: COMPITO 1 – INDIVIDUAZIONE DEI BISOGNI
+title: Compito 1 - Individuazione dei bisogni
 
 #################################################################
 
 # Specifies the order of the current page from the point of view of the navbar. Can have repetition in the numbers, for parent-child hierarchies.
-nav_order: 5
+nav_order: 1
 
 # Let exclude the page from the navbar
 nav_exclude: false
@@ -39,7 +39,7 @@ lang: it
 
 # Bare: redirect page
 redirect_to:
-    - /BitEvent/it/#compito-1--individuazione-dei-bisogni
+    - /it/#compito-1--individuazione-dei-bisogni
 ---
 
 <!-- Bare Page -->

@@ -113,6 +113,6 @@ QR Code:
 
 ---
 
-## COMPITO 1 – INDIVIDUAZIONE DEI BISOGNI
+## Compito 1 - Individuazione dei bisogni
 
 > _Consegna prevista entro le 23:59 del 9.Oct.2023_
