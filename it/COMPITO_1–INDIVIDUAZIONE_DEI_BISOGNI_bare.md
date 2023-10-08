@@ -39,7 +39,7 @@ lang: it
 
 # Bare: redirect page
 redirect_to:
-    - /BitEvent/it/#WOWOWOWWOW
+    - /BitEvent/it/#compito-1--individuazione-dei-bisogni
 ---
 
 <!-- Bare Page -->

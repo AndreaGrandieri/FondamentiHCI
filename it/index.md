@@ -21,7 +21,7 @@ search_exclude: false
 #################################################################
 
 # Set "true" if this page has childrens, "false" otherwise.
-has_children: false
+has_children: true
 
 # If this page is some page's child, specify the parent's name, otherwise comment out the option. If this page is some page's grandchild, specify grandparent's name, otherwise comment out the option.
 # # parent: NOME_PAGINA_GENITORE
@@ -107,7 +107,9 @@ __Il nostro sondaggio di needfinding accetta ancora risposte!__ Stiamo raccoglie
 
 Link al form: [https://forms.office.com/e/vka0rwAuhV](https://forms.office.com/e/vka0rwAuhV)
 
-QR Code: [![FormQRCode.png](/BitEvent/assets/FormQRCode.png)](/BitEvent/assets/FormQRCode.png)
+QR Code:
+
+<a href="/BitEvent/assets/FormQRCode.png"><img src="/BitEvent/assets/FormQRCode.png" alt="FormQRCode.png" width="400" height="400"/></a>
 
 ---
 
