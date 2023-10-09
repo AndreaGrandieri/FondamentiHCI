@@ -40,7 +40,8 @@ baseurl: BitEvent
 # Forcing inclusion for files and/or dirs that are not included by default by Jekyll
 # WARNING: due to a bug regarding Jekyll, specifing directories won't work: they won't be included anyway. The solution of specifing: "**" is not recommended, since it will make "include" work with directories, but will include EVERYTHING, ending up with files not wanted; in addition, "include" enpowers "exclude", rendering useless to use "exclude" to avoid the side effects of "include: "**"". Thus, the best solution till bug resolution is to manually include each wanted file.
 
-# # include:
+include:
+  - src/C1/Consegna 1 - Individuazione dei bisogni - BitEvent.pdf
 ### RepoLink: append ###
 
 #################################################################

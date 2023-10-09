@@ -115,4 +115,4 @@ QR Code:
 
 ## Compito 1 - Individuazione dei bisogni
 
-> _Consegna prevista entro le 23:59 del 9.Oct.2023_
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 1 - Individuazione dei bisogni - BitEvent.pdf](/BitEvent/src/C1/Consegna 1 - Individuazione dei bisogni - BitEvent.pdf)
