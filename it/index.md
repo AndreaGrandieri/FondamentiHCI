@@ -93,7 +93,7 @@ lang: it
 
 | --- | --- | --- |
 | Andrea Grandieri  | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/AndreaGrandieri](https://github.com/AndreaGrandieri)    |
-| Matteo Cavalleri   | Triennale in Ingegneria dell'Automazione - Politecnico di Milano | [https://github.com/teocavaa](https://github.com/teocavaa)    |
+| Matteo Cavalleri   | Triennale in Ingegneria dell'Automazione - Politecnico di Milano | [https://teocavaa.github.io/](https://teocavaa.github.io/)    |
 | Ilaria Brunelli   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/IlariaBrunelli](https://github.com/IlariaBrunelli)    |
 | Giorgio Alotto   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/GioAlo](https://github.com/GioAlo)    |
 | Andrea Bellocci   | Triennale in Ingegneria Informatica - Politecnico di Milano | [https://github.com/AndreaBellocci](https://github.com/AndreaBellocci)    |
