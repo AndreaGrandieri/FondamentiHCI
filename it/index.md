@@ -115,4 +115,10 @@ QR Code:
 
 ## Compito 1 - Individuazione dei bisogni
 
-- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 1 - Individuazione dei bisogni - BitEvent.pdf](/BitEvent/src/C1/Consegna 1 - Individuazione dei bisogni - BitEvent.pdf)
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 1 - Individuazione dei bisogni - BitEvent.pdf](/BitEvent/src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent.pdf)
+
+---
+
+## Compito 2 - Raffinamento e Focus
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 2 - Raffinamento e Focus - BitEvent.pdf](/BitEvent/src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent.pdf)
