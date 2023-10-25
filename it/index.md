@@ -122,3 +122,7 @@ QR Code:
 ## Compito 2 - Raffinamento e Focus
 
 - <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 2 - Raffinamento e Focus - BitEvent.pdf](/BitEvent/src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent.pdf)
+
+### Osservazioni sul campo
+
+<iframe src="https://onedrive.live.com/embed?resid=2E4112FCD9582D6B%2195703&authkey=!AJxPUaOLCJXVxTc" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
