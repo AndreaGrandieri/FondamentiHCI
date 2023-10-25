@@ -127,18 +127,7 @@ QR Code:
 
 ### Osservazioni sul campo
 
-<!--
 <iframe src="https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/preview" width="480" height="320" allow="autoplay"s></iframe>
--->
-
-<script>
-const iframe = document.createElement('iframe');
-iframe.src = 'https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/preview';
-iframe.width = '480';
-iframe.height = '320';
-iframe.allow = 'autoplay';
-document.body.appendChild(iframe);
-</script>
 
 <!--
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5SXQptLebhQ" title="Timelapse bacheche fisiche" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
