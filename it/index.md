@@ -127,4 +127,13 @@ QR Code:
 
 ### Osservazioni sul campo
 
+{: .warning }
+> <p class="warning">Operazioni ancora in corso per embeed del video...</p>
+>
+> We communicate. We catch. We connect.
+
+[Clicca qui](https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/view) per il video.
+
+<!--
 <iframe src="https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/preview" width="480" height="320" allow="autoplay"></iframe>
+-->
