@@ -41,8 +41,8 @@ baseurl: BitEvent
 # WARNING: due to a bug regarding Jekyll, specifing directories won't work: they won't be included anyway. The solution of specifing: "**" is not recommended, since it will make "include" work with directories, but will include EVERYTHING, ending up with files not wanted; in addition, "include" enpowers "exclude", rendering useless to use "exclude" to avoid the side effects of "include: "**"". Thus, the best solution till bug resolution is to manually include each wanted file.
 
 include:
-  - src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent.pdf
-  - src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent.pdf
+  - src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent_v2.pdf
+  - src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent_v2.pdf
 ### RepoLink: append ###
 
 #################################################################

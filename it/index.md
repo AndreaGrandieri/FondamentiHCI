@@ -115,14 +115,14 @@ QR Code:
 
 ## Compito 1 - Individuazione dei bisogni
 
-- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 1 - Individuazione dei bisogni - BitEvent.pdf](/BitEvent/src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent.pdf)
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 1 - Individuazione dei bisogni - BitEvent_v2.pdf](/BitEvent/src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent_v2.pdf)
 - Presentazione interattiva su Canva: [clicca qui](https://www.canva.com/design/DAFwwAPnjN0/dsUYdsN7M9QpMw6hwhEgmQ/view?utm_content=DAFwwAPnjN0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ---
 
 ## Compito 2 - Raffinamento e Focus
 
-- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 2 - Raffinamento e Focus - BitEvent.pdf](/BitEvent/src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent.pdf)
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 2 - Raffinamento e Focus - BitEvent_v2.pdf](/BitEvent/src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent_v2.pdf)
 - Presentazione interattiva su Canva: [clicca qui](https://www.canva.com/design/DAFxo3eyjtA/leQNDSOOdfTMM8C9Bz0paQ/view?utm_content=DAFxo3eyjtA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ### Osservazioni sul campo
