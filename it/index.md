@@ -135,3 +135,10 @@ QR Code:
 <!--
 <iframe src="https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/preview" width="480" height="320" allow="autoplay"></iframe>
 -->
+
+---
+
+## Compito 3 - Task e Prototipi Low Fidelty
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 3 - Task e Prototipi Low Fidelty.pdf](/BitEvent/src/C3/Consegna_3_Task_e_Prototipi_Low_Fidelty.pdf)
+- Presentazione interattiva su Canva:
