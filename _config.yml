@@ -43,7 +43,8 @@ baseurl: BitEvent
 include:
   - src/C1/Consegna_1_Individuazione_dei_bisogni_BitEvent_v2.pdf
   - src/C2/Consegna_2_Raffinamento_e_Focus_BitEvent_v2.pdf
-  - src/C3/Consegna_3_Task_e_Prototipi_Low_Fidelty.pdf
+  - src/C3/Consegna_3_Task_e_Prototipi_Low_Fidelty_BitEvent.pdf
+  - src/C4/Consegna_4_PrototipoMF_+_README_per_valutatori_BitEvent.pdf
 ### RepoLink: append ###
 
 #################################################################

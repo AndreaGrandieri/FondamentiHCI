@@ -127,18 +127,22 @@ QR Code:
 
 ### Osservazioni sul campo
 
-{: .warning }
-> Operazioni ancora in corso per embeed del video...
-
 [Clicca qui](https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/view) per il video.
-
-<!--
-<iframe src="https://drive.google.com/file/d/12LGuekGLyiznYe-I3jfz_EkT7UoQhvNV/preview" width="480" height="320" allow="autoplay"></iframe>
--->
 
 ---
 
 ## Compito 3 - Task e Prototipi Low Fidelty
 
-- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 3 - Task e Prototipi Low Fidelty.pdf](/BitEvent/src/C3/Consegna_3_Task_e_Prototipi_Low_Fidelty.pdf)
-- Presentazione interattiva su Canva:
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 3 - Task e Prototipi Low Fidelty - BitEvent.pdf](/BitEvent/src/C3/Consegna_3_Task_e_Prototipi_Low_Fidelty_BitEvent.pdf)
+- Presentazione interattiva su Canva:  [clicca qui](https://www.canva.com/design/DAFzhQdF6rQ/G1qF0lQ1ir2qeLkyCkzFhQ/view?utm_content=DAFzhQdF6rQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+---
+
+## Compito 4 - PrototipoMF + README per valutatori
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 4 - PrototipoMF + README per valutatori - BitEvent.pdf](/BitEvent/src/C4/Consegna_4_PrototipoMF_+_README_per_valutatori_BitEvent.pdf)
+- Presentazione interattiva su Canva: [clicca qui](https://www.canva.com/design/DAF1TE630pE/WXOgwDZQjzDYDU25A-2ioQ/view?utm_content=DAF1TE630pE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+### Prototipo Interattivo
+
+Ecco il link per accedere al prototipo MF interattivo, direttamente utilizzabile dal proprio dispositivo. La risorsa è costruita e fornita via [Figma](https://www.figma.com/): [clicca qui](https://www.figma.com/file/DAz4no1XOLINWNiegq30Qk/booo?type=design&node-id=0%3A1&mode=design&t=670M4kiKRDsLjf1R-1)
