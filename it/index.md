@@ -145,4 +145,4 @@ QR Code:
 
 ### Prototipo Interattivo
 
-Ecco il link per accedere al prototipo MF interattivo, direttamente utilizzabile dal proprio dispositivo. La risorsa è costruita e fornita via [Figma](https://www.figma.com/): [clicca qui](https://www.figma.com/file/DAz4no1XOLINWNiegq30Qk/booo?type=design&node-id=0%3A1&mode=design&t=670M4kiKRDsLjf1R-1)
+Ecco il link per accedere al prototipo MF interattivo, direttamente utilizzabile dal proprio dispositivo. La risorsa è costruita e fornita via `Figma`: [clicca qui](https://www.figma.com/file/DAz4no1XOLINWNiegq30Qk/booo?type=design&node-id=0%3A1&mode=design&t=670M4kiKRDsLjf1R-1)
