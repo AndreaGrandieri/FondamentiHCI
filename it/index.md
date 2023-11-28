@@ -143,6 +143,10 @@ QR Code:
 - <i class="fa-solid fa-file-pdf fa-2x"></i> [Consegna 4 - PrototipoMF + README per valutatori - BitEvent.pdf](/BitEvent/src/C4/Consegna_4_PrototipoMF_+_README_per_valutatori_BitEvent.pdf)
 - Presentazione interattiva su Canva: [clicca qui](https://www.canva.com/design/DAF1TE630pE/WXOgwDZQjzDYDU25A-2ioQ/view?utm_content=DAF1TE630pE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+### README del Prototipo
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [README.pdf](/BitEvent/src/C4/README.pdf)
+
 ### Prototipo Interattivo
 
 Ecco il link per accedere al prototipo MF interattivo, direttamente utilizzabile dal proprio dispositivo. La risorsa è costruita e fornita via `Figma`: [clicca qui](https://www.figma.com/file/DAz4no1XOLINWNiegq30Qk/booo?type=design&node-id=0%3A1&mode=design&t=670M4kiKRDsLjf1R-1)
