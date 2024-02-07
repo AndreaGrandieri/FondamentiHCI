@@ -166,3 +166,6 @@ Ecco il link per accedere al prototipo MF interattivo, direttamente utilizzabile
 - <i class="fa-solid fa-file-pdf fa-2x"></i> [Report problemi risolti BitEvent.pdf](/BitEvent/src/C6/Report_problemi_risolti_BitEvent.pdf)
 - <i class="fa-solid fa-file-pdf fa-2x"></i> [GUIDA PER I TEST DI USABILITA BitEvent.pdf](/BitEvent/src/C6/GUIDA_PER_I_TEST_DI_USABILITA_BitEvent.pdf)
 - <i class="fa-solid fa-file-pdf fa-2x"></i> [Compito 6 - Usability Testing e Prototipo High Fidelty - BitEvent.pdf](/BitEvent/src/C6/Consegna_6_Usability_Testing_e_Prototipo_High_Fidelty_BitEvent.pdf)
+
+- <i class="fa-solid fa-file-pdf fa-2x"></i> [Presentazione finale.pdf](/BitEvent/src/C6/Presentazione_finale_BitEvent.pdf)
+- Presentazione finale - interattiva su Canva: [clicca qui](https://www.canva.com/design/DAF7wIcrtsU/2PnXXNnWQ5oMHbj_mTr1YQ/edit?utm_content=DAF7wIcrtsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
