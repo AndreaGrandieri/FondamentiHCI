@@ -79,6 +79,8 @@ lang: it
 > - <i class="fa-solid fa-file-pdf fa-2x"></i> [Presentazione finale.pdf](/BitEvent/src/C6/Presentazione_finale_BitEvent.pdf)
 > - Link prototipo interattivo su Figma: [clicca qui](https://www.figma.com/proto/DAz4no1XOLINWNiegq30Qk/Prototipo-finale?page-id=0%3A1&type=design&node-id=1-2&viewport=328%2C-337%2C0.3&t=dZt2wrEukQOsWPbW-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
 
+<div style="max-width: 640px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://polimi365-my.sharepoint.com/personal/10829222_polimi_it/_layouts/15/embed.aspx?UniqueId=0ed80a93-804b-47b1-a450-ccd89ed87102&embed=%7B%22af%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Video prototipo High Fidelty.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
 ---
 
 {: .motto-title }
