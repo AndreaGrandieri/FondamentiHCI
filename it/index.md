@@ -81,6 +81,10 @@ lang: it
 
 <iframe src="https://onedrive.live.com/embed?resid=2E4112FCD9582D6B%2199668&authkey=!APQsGtkapP0nO54" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+<video width="320" height="240" autoplay loop muted>
+  <source src="https://github.com/AndreaGrandieri/VideoBoing/raw/main/Video%20prototipo%20High%20Fidelty.mp4" type="video/mp4" />
+</video>
+
 ---
 
 {: .motto-title }
