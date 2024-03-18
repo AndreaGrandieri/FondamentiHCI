@@ -79,7 +79,7 @@ lang: it
 > - <i class="fa-solid fa-file-pdf fa-2x"></i> [Presentazione finale.pdf](/BitEvent/src/C6/Presentazione_finale_BitEvent.pdf)
 > - Link prototipo interattivo su Figma: [clicca qui](https://www.figma.com/proto/DAz4no1XOLINWNiegq30Qk/Prototipo-finale?page-id=0%3A1&type=design&node-id=1-2&viewport=328%2C-337%2C0.3&t=dZt2wrEukQOsWPbW-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
 
-<video width="400" height="600" autoplay loop muted>
+<video width="350" height="550" autoplay loop muted>
   <source src="https://github.com/AndreaGrandieri/VideoBoing/raw/main/Video%20prototipo%20High%20Fidelty.mp4" type="video/mp4" />
 </video>
 
